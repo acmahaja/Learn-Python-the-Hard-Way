@@ -1,0 +1,8 @@
+Study Drills with Problems
+
+ex1: (2) Make your script print only one of the lines.
+
+
+
+
+

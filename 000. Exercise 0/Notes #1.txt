@@ -1,0 +1,25 @@
+-------------------------
+Learn Python the Hard Way
+-------------------------
+
+Exercise 0: The Setup
+
+Link: https://learnpythonthehardway.org/book/ex0.html
+
+Windows
+-------
+	Q14)	Learn how to make a directory in the PowerShell (Terminal).
+
+	A14)	mkdir [File_Name]
+	----
+	Q15)	Learn how to change into a directory in the PowerShell (Terminal).
+
+	A15)	cd [Old_directory] [New_directory]
+	----	
+	Q16)	Use your editor to create a file in this directory. i) Make the file, 
+		Save or Save As... and pick this directory
+		
+	A16)	
+		i)	New-Item [File_Name]
+		
+	----
